@@ -96,3 +96,13 @@ Data cleaning, manipulation, and visualization skills
 Ability to extract actionable business insights
 
 Application of Python for real-world retail analytics
+
+
+<img width="820" height="212" alt="Data set Shape" src="https://github.com/user-attachments/assets/9a3791b4-1ef7-4c3a-a895-0f7b8db42010" />
+
+<img width="995" height="707" alt="Graph" src="https://github.com/user-attachments/assets/187bdc3b-068a-41f3-843c-5228e965183c" />
+
+<img width="848" height="296" alt="Statistical Summary" src="https://github.com/user-attachments/assets/327ee5cf-6a2c-458d-b637-2f4b0c74d714" />
+
+
+
